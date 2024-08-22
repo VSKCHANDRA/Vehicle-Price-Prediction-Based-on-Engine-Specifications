@@ -1,0 +1,2 @@
+# Vehicle-Price-Prediction-Based-on-Engine-Specifications-
+This project aims to create a model that predicts a vehicle's MSRP based on engine specifications and features. By applying regression techniques like Multiple Linear, Ridge, and Lasso, we'll identify key factors influencing price and build a reliable prediction tool. The focus is on accuracy and understanding the main drivers of vehicle pricing.
